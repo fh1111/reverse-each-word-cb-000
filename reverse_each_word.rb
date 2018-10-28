@@ -9,8 +9,8 @@ def reverse_each_word (sentence)
   end
 
   new_sentence = rev_string.join()
-  #puts new_sentence
+  puts new_sentence
 
 end
 
-reverse_each_word("Hi my name is fernando")
+reverse_each_word("Hello there, and how are you?")
