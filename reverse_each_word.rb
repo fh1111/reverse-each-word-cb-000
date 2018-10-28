@@ -8,7 +8,7 @@ def reverse_each_word (sentence)
 
   end
 
-  puts rev_string
+  #puts rev_string
 
 end
 
