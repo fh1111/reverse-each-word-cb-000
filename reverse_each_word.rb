@@ -1,10 +1,9 @@
 def reverse_each_word (sentence)
 
-  string = sentence.split()
   rev_string = []
 
-  string.each do |word|
-    rev_string.unshift(word)
+  sentence.each do |letter|
+    rev_string.unshift(letter)
 
   end
 
