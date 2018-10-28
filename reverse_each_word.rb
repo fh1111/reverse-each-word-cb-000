@@ -10,8 +10,8 @@ def reverse_each_word (sentence)
 
   puts rev_string
 
-end
 
- reverse_each_word("Hi my name is fernando")
 
 end
+
+reverse_each_word("Hi my name is fernando")
