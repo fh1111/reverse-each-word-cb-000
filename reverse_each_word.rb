@@ -9,7 +9,7 @@ def reverse_each_word (sentence)
   end
 
   new_sentence = rev_string.join()
-  puts rev_string
+  puts new_sentence
 
 end
 
